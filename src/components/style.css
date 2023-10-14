@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+}
+
+.mainarea{
+    background-color: violet;
+    width: 70%;
+    height: 15rem;
+    margin: 50px auto;
+    transform: translate(0,50%);
+    padding: 40px 0px 0px 0px;
+    border-radius: 30px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
+li{
+    border: 1px black solid;
+}
+.selection{padding: 5rem;
+}
